@@ -10,4 +10,3 @@ python ossdownload.py -u https://example.com/oss-path/
 
 ## Support
 by: ApexSecLabs/h3ky
-Tool name: OSSDownload
